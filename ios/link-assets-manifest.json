@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Hind-Bold.ttf",
+      "sha1": "c9fee79732003c2e0aea75532c44d42af4ab71d9"
+    },
+    {
+      "path": "src/assets/fonts/Hind-Light.ttf",
+      "sha1": "60df43ea5bf09181163262149924881c3daebc63"
+    },
+    {
+      "path": "src/assets/fonts/Hind-Medium.ttf",
+      "sha1": "4dd7ff442885c9d3545d391a4e418a947961a69a"
+    },
+    {
+      "path": "src/assets/fonts/Hind-Regular.ttf",
+      "sha1": "4da8ed91daba0140881d236eab5550be86df1dfa"
+    },
+    {
+      "path": "src/assets/fonts/Hind-SemiBold.ttf",
+      "sha1": "ed0047025decffb3bb025aa109f90d696bac18e8"
+    }
+  ]
+}
